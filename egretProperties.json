@@ -1,0 +1,37 @@
+{
+  "engineVersion": "5.4.1",
+  "compilerVersion": "5.4.1",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "eui"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "promise"
+    },
+    {
+      "name": "particle",
+      "path": "../libsrc"
+    }
+  ],
+  "eui": {
+    "exmlRoot": [
+      "resource/treeUI"
+    ]
+  },
+  "vivo": {
+    "usePlugin": true
+  }
+}

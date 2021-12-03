@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RedSkin" width="640" height="1134" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="17d7f677ff7" ></w:Config>
+	<e:Rect id="m_mask" left="0" right="0" top="0" bottom="0" fillAlpha="0.6"/>
+	<e:Image id="y_red" width="300" height="500" source="red_png" horizontalCenter="0" verticalCenter="0" visible="false"/>
+</e:Skin>

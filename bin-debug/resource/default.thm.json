@@ -1,0 +1,10 @@
+{
+	"skins": {
+		"Red": "resource/treeUI/Red.exml"
+	},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/treeUI/Red.exml"
+	],
+	"path": "resource/default.thm.json"
+}
